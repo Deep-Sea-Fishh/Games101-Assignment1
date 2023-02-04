@@ -20,12 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\Assignment1\代码框架\main.cpp" />
-    <ClCompile Include="..\Assignment1\代码框架\rasterizer.cpp" />
-    <ClCompile Include="..\Assignment1\代码框架\Triangle.cpp" />
+    <ClCompile Include="rasterizer.cpp" />
+    <ClCompile Include="Triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Assignment1\代码框架\rasterizer.hpp" />
-    <ClInclude Include="..\Assignment1\代码框架\Triangle.hpp" />
+    <ClInclude Include="rasterizer.h" />
+    <ClInclude Include="Triangle.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
