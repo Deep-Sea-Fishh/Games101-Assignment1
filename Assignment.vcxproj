@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Assignment1\代码框架\main.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="rasterizer.cpp" />
     <ClCompile Include="Triangle.cpp" />
   </ItemGroup>
